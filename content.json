@@ -1,0 +1,66 @@
+{
+  "name": "fake5",
+  "taglines": [
+    "canor restaurant merchant",
+    "probably in the depths right now",
+    "daniel u a bum"
+  ],
+  "avatar": "",
+  "aboutLabel": "about",
+  "about": [
+    "- lucas",
+    "deepwoken merchant, i draw and listen to a big collection of music artists.",
+    "gotta get that pirate token 🤑🤑"
+  ],
+  "tags": [
+    "British",
+    "Canor"
+  ],
+  "socialsLabel": "find me",
+  "socialsTitle": "socials",
+  "socials": [
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "handle": "5pmt",
+      "url": "",
+      "copy": true
+    },
+    {
+      "name": "Roblox",
+      "icon": "roblox",
+      "handle": "LlamaLordRuins",
+      "url": "https://www.roblox.com/users/2694115339/profile",
+      "copy": false
+    },
+    {
+      "name": "Steam",
+      "icon": "steam",
+      "handle": "5pmt",
+      "url": "https://steamcommunity.com/id/5pmt/",
+      "copy": false
+    },
+    {
+      "name": "TikTok",
+      "icon": "tiktok",
+      "handle": "edenkited",
+      "url": "https://www.tiktok.com/@edenkited",
+      "copy": false
+    }
+  ],
+  "soonLabel": "soon",
+  "soonToast": "link coming soon",
+  "copiedToast": "copied",
+  "enterText": "click",
+  "scrollHint": "scroll",
+  "footer": "© fake5",
+  "backToTop": "back to top ↑",
+  "navTop": "top",
+  "navAbout": "about",
+  "navSocials": "socials",
+  "soundOn": "sound on",
+  "soundOff": "sound off",
+  "pageTitle": "5",
+  "description": "about me and where to find me.",
+  "editorKeyHash": ""
+}
