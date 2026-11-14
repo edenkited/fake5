@@ -17,6 +17,9 @@
     "Canor"
   ],
   "discordId": "1309085037722861612",
+  "timeZone": "Europe/London",
+  "clock24": false,
+  "timeLabel": "for me",
   "socialsLabel": "find me",
   "socialsTitle": "socials",
   "socials": [
